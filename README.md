@@ -60,6 +60,9 @@ This scaffold provides a robust foundation built with:
 # Install dependencies
 npm install
 
+# Prepare Database file
+npm run db:push
+
 # Start development server
 npm run dev
 
